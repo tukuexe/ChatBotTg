@@ -17,9 +17,9 @@
 
 ## 📸 **Screenshots**
 <p align="center">
-  <img src="https://github.com/tukuexe/ChatBotTg/assets/screenshot1.jpg" width="250" alt="Screenshot 1">
-  <img src="https://github.com/tukuexe/ChatBotTg/assets/screenshot2.jpg" width="250" alt="Screenshot 2">
-  <img src="https://github.com/tukuexe/ChatBotTg/assets/screenshot3.jpg" width="250" alt="Screenshot 3">
+  <img src="https://github.com/tukuexe/ChatBotTg/assets/screenshot1.png" width="250" alt="Screenshot 1">
+  <img src="https://github.com/tukuexe/ChatBotTg/assets/screenshot2.png" width="250" alt="Screenshot 2">
+  <img src="https://github.com/tukuexe/ChatBotTg/assets/screenshot3.png" width="250" alt="Screenshot 3">
 </p>
 
 ---
